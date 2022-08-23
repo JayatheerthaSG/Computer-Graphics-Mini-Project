@@ -8,9 +8,9 @@ This repo contains all the files used in CG Mini Project on topic "atom simulati
 
 # Screenshots
 
-![](https://i.imgur.com/fwBwZaK.png)
-![](https://i.imgur.com/wCoYQNC.png)
-![](https://i.imgur.com/H4hDRJu.png)
+!<img width="563" alt="Screenshot 2022-08-23 164628" src="https://user-images.githubusercontent.com/96195827/186145327-9a223cdc-9ff5-4385-b862-413f6326cab6.png">
+<img width="552" alt="Screenshot 2022-08-23 164713" src="https://user-images.githubusercontent.com/96195827/186145506-4d8cd24e-746b-4fbe-8a63-60b5d627b9f9.png">
+<img width="552" alt="Screenshot 2022-08-23 164713" src="https://user-images.githubusercontent.com/96195827/186145506-4d8cd24e-746b-4fbe-8a63-60b5d627b9f9.png">
 
 # Working Demo
 
