@@ -14,4 +14,4 @@ This repo contains all the files used in CG Mini Project on topic "atom simulati
 
 # Working Demo
 
-<img src="https://i.imgur.com/t4r6J9M.gif" width="100%">
+[Screencast from 22-08-22 121138 PM IST.webm](https://user-images.githubusercontent.com/96195827/186161126-7692f117-2df1-4653-95aa-63e9820e020b.webm)
